@@ -6,8 +6,8 @@
 
 /*  グローバル変数定義  */
 
-UNIT_DIST_X = 12;
-UNIT_DIST_Y = 12;
+UNIT_DIST_X = 20;
+UNIT_DIST_Y = 20;
 
 
 
